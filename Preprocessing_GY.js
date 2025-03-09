@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar  8 11:29:28 2025
-
-@author: zhangzirui
-"""
 
 /*     
     Modified from GSG part 1
@@ -12,8 +5,10 @@ Created on Sat Mar  8 11:29:28 2025
 
 Creates and pre-processes FMR files:
 Slice Time Correction.
+Single-band.
+2D-Image.
 Motion Correction, aligning to specific volume of first entry in fmrprojectnames.
-GLM Temporal Filter with 7 cycles
+GLM Temporal Filter with 2 cycles
 
 */
 
